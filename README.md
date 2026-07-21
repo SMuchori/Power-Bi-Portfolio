@@ -37,4 +37,4 @@ With sales data scattered across disconnected tables, stakeholders had no reliab
 
 **Files:**
 - [`Retail Sales Analytics.pbix`](Retail%20Sales%20Analytics.pbix) — Power BI file
-- [`dashboard-screenshot.png`](link) — Preview image
+- [Dashboard Screenshot.png](dashboard-screenshot.png) — Preview image

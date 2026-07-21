@@ -7,7 +7,7 @@ My Power BI dashboards and data analytics projects, showcasing skills in data mo
 ## 📊 Projects
 
 ### 📊 Retail Sales Analytics
-![Dashboard Screenshot](path/to/screenshot.png)
+![Dashboard Screenshot](dashboard-screenshot.png)
 
 **Overview:**
 An end-to-end Power BI business intelligence project that turns a messy, real-world-style Excel export into a governed data model and a fully interactive 3-page executive dashboard. The source workbook simulates a legacy retail order system — 8 loosely related sheets covering orders, customers, products, stores, regions, employees, returns, and budget targets — deliberately riddled with mixed date formats, nulls, duplicates, and inconsistent formatting.
